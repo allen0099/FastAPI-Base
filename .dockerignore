@@ -1,0 +1,8 @@
+.git
+
+*.md
+*ignore
+
+Dockerfile
+docker-compose.yml
+docker-compose.yaml
